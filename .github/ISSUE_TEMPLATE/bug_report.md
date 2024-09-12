@@ -3,8 +3,6 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: bug
-assignees: ayuthmang
-
 ---
 
 **Describe the bug**
@@ -25,9 +23,10 @@ If applicable, add screenshots to help explain your problem.
 
 **Platform (please complete the following information):**
  - Theme: [e.g. firefox, google-chrome, iterm, jetbrains, vim, xcode]
+ - Theme Filter: [e.g., Pro, Blade, Buffy, Lincon, Morbious, Van Helsing, Alucard]
+ - Theme version: [e.g., 2.2] Please [update the Dracula Pro theme](https://app.gumroad.com/library) to the latest first and make sure it still has an issue.
  - OS: [e.g. Windows, macOS]
- - Browser [e.g. Google Chrome, Firefox]
- - Version [e.g. 22]
+ - Version [e.g. 14.6.1]
 
 **Additional context**
 Add any other context about the problem here.
