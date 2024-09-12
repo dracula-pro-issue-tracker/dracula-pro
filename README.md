@@ -1,4 +1,4 @@
-# Dracula Pro Issue Tracker
+# [Unofficial] Dracula Pro Issue Tracker
 
 A transparent issue tracker for Dracula Pro.
 
