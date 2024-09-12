@@ -1,12 +1,14 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help the maintainer fix and improve
 title: ''
 labels: bug
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+
+- A screenshot of an issue.
+- A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
